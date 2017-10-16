@@ -1,6 +1,6 @@
 import socket
 
-TCP_IP = '192.168.1.5'           #enter your device IP
+TCP_IP = '192.xxx.xxx.xxx'           #enter your device IP
 TCP_PORT = 5005
 
 BUFFER_SIZE = 20                       # Normally 1024, but we want fast response
